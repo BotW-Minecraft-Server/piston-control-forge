@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "package": "com.williambl.pistoncontrol.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "BlockStateMixin",
+    "PistonBlockMixin",
+    "IForgeBlockStateMixin",
+    "PistonTileEntityMixin",
+    "EntityMixin",
+    "TileEntityMixin"
+  ],
+  "client": [
+    "PistonTileEntityRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
