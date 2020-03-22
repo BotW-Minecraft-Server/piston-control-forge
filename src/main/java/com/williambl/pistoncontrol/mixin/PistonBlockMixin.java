@@ -1,6 +1,5 @@
 package com.williambl.pistoncontrol.mixin;
 
-import com.sun.org.apache.xpath.internal.operations.Bool;
 import com.williambl.pistoncontrol.PistonBlockHooks;
 import net.minecraft.block.*;
 import net.minecraft.nbt.CompoundNBT;
