@@ -5,6 +5,7 @@
     "1.15.2-recommended": "v1.2.0"
   },
   "1.15.2": {
+    "v1.2.1": "Fix crash on startup",
     "v1.2.0": "Initial Release"
   }
 }
